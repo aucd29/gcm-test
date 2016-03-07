@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright (C) Hanwha S&C Ltd., 2016. All rights reserved.
-  ~
-  ~ This software is covered by the license agreement between
-  ~ the end user and Hanwha S&C Ltd., and may be
-  ~ used and copied only in accordance with the terms of the
-  ~ said agreement.
-  ~
-  ~ Hanwha S&C Ltd., assumes no responsibility or
-  ~ liability for any errors or inaccuracies in this software,
-  ~ or any consequential, incidental or indirect damage arising
-  ~ out of the use of the software.
-  -->
-
 <manifest package="com.damota.newspaper"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
